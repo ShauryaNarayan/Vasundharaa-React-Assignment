@@ -38,7 +38,8 @@ A search bar that filters a list of items.
 
 Highlights the matching text characters in bold as the user types.
 
-Technologies Used
+Technologies Used:
+
 React.js (Vite)
 
 Tailwind CSS
